@@ -1,1 +1,2 @@
 this a first line in b.txt file
+thrid line in b.txt
